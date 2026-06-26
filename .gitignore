@@ -1,0 +1,14 @@
+# ---- Go Binaries & Built Files ----
+ticket-system
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# ---- IDE / Editor Specific Files ----
+.vscode/
+
+# OS-specific hidden metadata files
+.DS_Store
+Thumbs.db
